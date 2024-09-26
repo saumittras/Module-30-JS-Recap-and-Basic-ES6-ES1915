@@ -30,6 +30,5 @@ const squre = (a) => a ** 2;
 console.log(squre(4));
 
 // No 3: multi parameter arrow function
-
 const add5 = (a, b) => a + b;
 console.log(add5(12, 13));
